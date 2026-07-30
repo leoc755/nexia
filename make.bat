@@ -1,1 +1,1 @@
-pyinstaller --onedir --windowed --icon=favicon.ico main.py
+pyinstaller --onedir --windowed --icon=favicon.ico --name nexia main.py
