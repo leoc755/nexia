@@ -1,1 +1,1 @@
-pyinstaller --onefile --windowed --icon=favicon.ico main.py
+pyinstaller --onedir --windowed --icon=favicon.ico main.py
