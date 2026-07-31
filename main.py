@@ -25,7 +25,7 @@ from npl import NyxPlayer
 
 class CelesteEngine:
     def __init__(self):
-        self.version = "1.16.7.1"
+        self.version = "1.16.8"
         self.shell_ver = "1.2"
         self.cssver = "1.1"
         self.home_url = "http://192.168.12.154/"
