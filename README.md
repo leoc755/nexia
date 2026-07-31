@@ -6,3 +6,4 @@ If you want to be a contributor, you can contact me with the email provided belo
 **Email**: [leoc755@proton.me](mailto:leoc755@proton.me)
 
 *... psst ... there is also a Tor link available! --> [3hp3tj2i2b74alcrsuzfurgnnjr5dtcm4j7nurpwm2esuqsjtti53gyd.onion](http://3hp3tj2i2b74alcrsuzfurgnnjr5dtcm4j7nurpwm2esuqsjtti53gyd.onion/)*
+* Please note that this link does not run 24/7
