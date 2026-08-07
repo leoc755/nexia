@@ -26,9 +26,9 @@ from npl import NyxPlayer
 class CelesteEngine:
     def __init__(self):
         self.version = "1.16.8"
-        self.shell_ver = "1.2"
+        self.shell_ver = "1.2.1"
         self.cssver = "1.1"
-        self.home_url = "http://192.168.12.154/"
+        self.home_url = "https://nxhp.pages.dev/"
         self.bookmarks = [
             ("XAMPP", "http://192.168.12.154/"),
             ("Acid1", "https://www.w3.org/Style/CSS/Test/Acid1/test.html"),
@@ -324,7 +324,7 @@ class PyHTML_Canvas(QWidget):
                     continue
 
                 # 2. Setup Font and Styles
-                font = QFont("Times New Roman", 16)
+                font = QFont("Times New Roman", 12)
                 if el.get("bold"): font.setBold(True)
                 if el.get("italic"): font.setItalic(True)
                 
